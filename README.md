@@ -23,4 +23,6 @@ Here are some ideas to get you started:
 <!--[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/)](https://www.youtube.com/user/)-->
 
 ### About me
-I'm a full-stack developer 
+I'm a full-stack developer.
+
+- 🔭 I’m currently working on *Português Puro*
