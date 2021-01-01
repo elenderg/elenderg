@@ -44,9 +44,9 @@ I'm a full-stack developer.
 
 ## &#x1f4c8; GitHub Stats
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elenderg" alt="elenderg" /></a> </p>
+<p align="center"> <a href="https://github.com/elenderg"><img src="https://github-profile-trophy.vercel.app/?elenderg=ryo-ma&theme=onedark" alt="elenderg" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?elenderg=ryo-ma&theme=onedark)](https://github.com/elenderg/)
+[![trophy](https://github-profile-trophy.vercel.app/?elenderg=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
