@@ -46,6 +46,9 @@ I'm a full-stack developer.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elenderg" alt="elenderg" /></a> </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?elenderg=ryo-ma&theme=onedark)](https://github.com/elenderg/)
+
+
 
 <a href="https://github.com/elenderg/elenderg">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elenderg&hide='',html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
