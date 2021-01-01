@@ -31,6 +31,7 @@ I'm a full-stack developer.
 </a>   
 
 
+
   
 ## 🔧 Languages, Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -56,3 +57,6 @@ I'm a full-stack developer.
 </a>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elenderg&" alt="elenderg" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
