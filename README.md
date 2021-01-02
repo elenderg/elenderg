@@ -55,7 +55,7 @@ I'm a full-stack developer.
 
 
 <a href="https://github.com/elenderg/elenderg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elenderg&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elenderg&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Elender's GitHub Stats" />
 </a>
  
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elenderg&" alt="elenderg" /></p>
