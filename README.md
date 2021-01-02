@@ -46,7 +46,7 @@ I'm a full-stack developer.
 
 <p align="center"> <a href="https://github.com/elenderg"><img src="https://github-profile-trophy.vercel.app/?username=elenderg=ryo-ma" alt="elenderg" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=elenderg&theme=onedark)](https://github.com/elenderg/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=elenderg&theme=onedark)](https://github.com/elenderg/)
 
 
 
