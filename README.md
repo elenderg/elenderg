@@ -62,8 +62,7 @@ I'm a full-stack developer.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<div>
-  
+<div>  
   
   
   
