@@ -62,3 +62,6 @@ I'm a full-stack developer.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<div>
+   ![Snake animation](https://raw.githubusercontent.com/elenderg/elenderg/main/github-contribution-grid-snake.svg)
+  </div>
