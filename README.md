@@ -65,7 +65,6 @@ I'm a full-stack developer.
 <div>  
   
   
-  
  
   ![Snake animation](https://github.com/elenderg/elenderg/blob/main/github-contribution-grid-snake.svg)
  
