@@ -64,11 +64,11 @@ I'm a full-stack developer.
 <!--END_SECTION:waka-->
 <div>
   
-  <a href = "mailto:bruno_graciano@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/brunogacarneiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@brunogracianoalvescarneiro"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+  <a href = "mailto:elenderg@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elender/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@elenderg"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/brunogacarneiro/brunogacarneiro/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/elenderg/elenderg/blob/main/github-contribution-grid-snake.svg)
  
 </div>
     
