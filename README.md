@@ -63,6 +63,14 @@ I'm a full-stack developer.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <div>
-   ![Snake animation](https://github.com/brunogacarneiro/brunogacarneiro/blob/output/github-contribution-grid-snake.svg)
+  
+  <a href = "mailto:bruno_graciano@outlook.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/brunogacarneiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://medium.com/@brunogracianoalvescarneiro"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
  
-  </div>
+  ![Snake animation](https://github.com/brunogacarneiro/brunogacarneiro/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+    
+
+
