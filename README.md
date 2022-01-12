@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### About me
 I'm a full-stack developer.
 
-- 🔭 I’m currently working on *Português Puro*
+- 💻 I’m currently working on *Português Puro*
 <a href="https://github.com/elenderg/Portugues-Puro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elenderg&repo=portugues-puro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
