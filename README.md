@@ -1,18 +1,18 @@
-<!--### Hi there 👋
+<!--### Hi there ??
 
 
-**elenderg/elenderg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**elenderg/elenderg** is a ? _special_ ? repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ?? I’m currently working on ...
+- ?? I’m currently learning ...
+- ?? I’m looking to collaborate on ...
+- ?? I’m looking for help with ...
+- ?? Ask me about ...
+- ?? How to reach me: ...
+- ?? Pronouns: ...
+- ? Fun fact: ...
 -->
 
 # Hi, I'm Elender! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### About me
 I'm a full-stack developer.
 
-- 🔭 I’m currently working on *Português Puro*
+- ?? I’m currently working on *Português Puro*
 <a href="https://github.com/elenderg/Portugues-Puro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elenderg&repo=portugues-puro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
@@ -33,7 +33,7 @@ I'm a full-stack developer.
 
 
   
-## 🔧 Languages, Technologies & Tools
+## ?? Languages, Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -63,7 +63,7 @@ I'm a full-stack developer.
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <div>
- 
+
 ![Snake animation](https://github.com/elenderg/elenderg/blob/main/github-contribution-grid-snake.svg) 
 </div>
     
