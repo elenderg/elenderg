@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elenderg/)](https://www.linkedin.com/in/elenderg/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/elenderg)](https://twitter.com/elenderg)
 <!--[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/)](https://www.youtube.com/user/)-->
-![image](https://user-images.githubusercontent.com/1089556/150423630-c5adc999-4247-4417-9a6a-6056fea4a85d.png)
+<p><a href="https://www.linkedin.com/in/elender/">
+  <img src="https://user-images.githubusercontent.com/1089556/150423630-c5adc999-4247-4417-9a6a-6056fea4a85d.png" />
+</a></p>
+
 
 
 ### About me
-I'm a full-stack developer.
+I'm a Full-Stack Software Developer.
 
 - 💻 I’m currently working on *Português Puro*
 <a href="https://github.com/elenderg/Portugues-Puro">
