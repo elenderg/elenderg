@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&label=Visitas%20Perfil&color=0e75b6&style=flat" alt="Visitas ao Perfil" width="150" height="28"/>
 <a href="https://github.com/elenderg/elenderg/stargazers">
- <img src="https://img.shields.io/github/stars/elenderg/elenderg" title="stars" alt="stars" width="70" height="28"/> 
+ <img src="https://img.shields.io/github/stars/elenderg/elenderg" title="Favoritos" alt="stars" width="70" height="28"/> 
 </a><br>
 
 </h1>
@@ -22,7 +22,14 @@ Here are some ideas to get you started:
 -->
 
 # Hi, I'm Elender! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-     <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=Seguir&style=social" height="22" title="Follow" align="center" alt="GitHub">
+
+  
+<figure>
+  <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=Seguir&style=social" height="22" title="Follow" align="center" alt="GitHub">
+  <figcaption>GitHuba</figcaption>
+</figure>
+
+     
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/elenderg)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elenderg/)](https://www.linkedin.com/in/elenderg/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/elenderg)](https://twitter.com/elenderg)
