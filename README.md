@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 <figure>
   <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=Seguir&style=social" height="22" title="Follow" align="center" alt="GitHub">
-  <figcaption>GitHuba</figcaption>
+  <figcaption>Contact</figcaption>
 </figure>
 
      
