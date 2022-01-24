@@ -86,8 +86,23 @@ I'm a Full-Stack Software Developer.
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<div align="center">
+ 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elenderg&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elenderg&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elenderg&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elenderg&theme=github_dark" />
+ 
+ <!--- https://github-profile-summary-cards.vercel.app/demo.html [Site para ver os temas do Profile Summary]--->
+
+
+ 
+</div>
+
 <div>
-  
+
+ 
 ![Snake animation](https://github.com/elenderg/elenderg/blob/main/github-contribution-grid-snake.svg) 
 </div>
     
