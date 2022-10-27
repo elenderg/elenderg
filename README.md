@@ -104,7 +104,3 @@ I'm a Full-Stack Software Developer.
 <div>
 
  
-![Snake animation](https://github.com/elenderg/elenderg/blob/main/github-contribution-grid-snake.svg) 
-</div>
-    
-
