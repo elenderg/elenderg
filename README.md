@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&label=Visitas%20Perfil&color=0e75b6&style=flat" alt="Visitas ao Perfil" width="150" height="28"/>
 <a href="https://github.com/elenderg/elenderg/stargazers">
- <img src="https://img.shields.io/github/stars/elenderg/portugues-puro" title="Favoritos" alt="Favoritos" width="70" height="28"/> 
+ <img src="https://img.shields.io/github/stars/elenderg/PAL-1000" title="Favoritos" alt="Favoritos" width="70" height="28"/> 
 </a><br>
 
 </h1>
@@ -36,7 +36,9 @@ I'm a Full-Stack Software Developer.
 
 - 💻 I’m currently working on *Português Puro*
 
-
+<a href="https://github.com/elenderg/Portugues-Puro">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elenderg&repo=portugues-puro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
   
 ## 🔧 Languages, Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
