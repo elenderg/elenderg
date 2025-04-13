@@ -10,8 +10,7 @@
 ## About me  
 - I'm a Full-Stack developer with experience in Python, JavaScript, SQL and web technologies.
 - I'm passionate about creating elegant and accessible solutions.
-
-  
+ 
 <figure>
   <img src="https://img.shields.io/github/followers/elenderg?label=Seguir&style=social" height="22" title="Follow" align="center" alt="GitHub">
  <figcaption></figcaption>
@@ -27,8 +26,8 @@
 <p><a href="https://www.linkedin.com/in/elender/">
   <img src="https://user-images.githubusercontent.com/1089556/150423630-c5adc999-4247-4417-9a6a-6056fea4a85d.png" />
 </a></p>
-
-
+  
+  
 
 ## 🚀 Featured Project
 
