@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://komarev.com/ghpvc/?username=JefersonTaiyou&label=Visitas%20Perfil&color=0e75b6&style=flat" alt="Visitas ao Perfil" width="150" height="28"/>
 <a href="https://github.com/elenderg/elenderg/stargazers">
- <img src="https://img.shields.io/github/stars/elenderg/PAL-1000" title="Favoritos" alt="Favoritos" width="70" height="28"/> 
+ <img src="https://img.shields.io/github/stars/elenderg/PAL-1000" title="Favoritos" alt="Favoritos" width="100" height="28"/> 
 </a><br>
 
 </h1>
