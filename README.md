@@ -16,11 +16,11 @@
   <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=Seguir&style=social" height="22" title="Follow" align="center" alt="GitHub">
  <figcaption><b>Contact me</b><br></figcaption>
 </figure>
-
+  
      
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/elenderg)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elenderg/)](https://www.linkedin.com/in/elenderg/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/elenderg)](https://twitter.com/elenderg)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/elenderg)  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elenderg/)](https://www.linkedin.com/in/elenderg/)  
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/elenderg)](https://twitter.com/elenderg)  
 <!--[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/)](https://www.youtube.com/user/)-->
 <p><a href="https://www.linkedin.com/in/elender/">
   <img src="https://user-images.githubusercontent.com/1089556/150423630-c5adc999-4247-4417-9a6a-6056fea4a85d.png" />
