@@ -14,9 +14,9 @@
   
 <figure>
   <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=Seguir&style=social" height="22" title="Follow" align="center" alt="GitHub">
- <figcaption><b>Contact me</b><br></figcaption>
+ <figcaption><b>Contact me</b></figcaption>
 </figure>
-  
+<br> 
      
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/elenderg)  
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elenderg/)](https://www.linkedin.com/in/elenderg/)  
