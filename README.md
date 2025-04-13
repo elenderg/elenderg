@@ -40,21 +40,24 @@ Full-Stack Developer passionate about creating elegant and accessible solutions.
   
 ## 🔧 Languages, Technologies & Tools
 
-**OS** 
+***OS***  
+  
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)  
   
-**WEB**  
+***WEB***  
+  
 ![](https://img.shields.io/badge/⠀-MARKDOWN-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ﾠ-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ﾠ-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)  
   
-**Programming Languages** 
+***Programming Languages*** 
+  
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ﾠ-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/⠀-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)  
   
-**Databases**
+***Databases***
 ![](https://img.shields.io/badge/ﾠ-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ﾠ-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)  
   
