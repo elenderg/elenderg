@@ -26,9 +26,8 @@
 <p><a href="https://www.linkedin.com/in/elender/">
   <img src="https://user-images.githubusercontent.com/1089556/150423630-c5adc999-4247-4417-9a6a-6056fea4a85d.png" />
 </a></p>
-  
-  
-  
+<p></p> 
+
 ## 🚀 Featured Project
 
 - 💻 I'm currently focused on the **[Português Puro](https://github.com/elenderg/Portugues-Puro)** project, a programming language written in Portuguese with a natural and intuitive syntax featuring an extensive standard library.
