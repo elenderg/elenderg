@@ -6,7 +6,10 @@
 </h1>
 
 # Hi, I'm Elender! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-Full-Stack Developer passionate about creating elegant and accessible solutions.
+  
+## About me  
+- I'm a Full-Stack developer with experience in Python, JavaScript, SQL and web technologies.
+- I'm passionate about creating elegant and accessible solutions.
 
   
 <figure>
@@ -24,9 +27,6 @@ Full-Stack Developer passionate about creating elegant and accessible solutions.
 </a></p>
 
 
-
-## About me
-- I'm a Full-Stack developer with experience in Python, JavaScript, SQL and web technologies.
 
 ## 🚀 Featured Project
 
