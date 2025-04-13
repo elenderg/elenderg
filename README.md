@@ -57,7 +57,8 @@ Full-Stack Developer passionate about creating elegant and accessible solutions.
 ![](https://img.shields.io/badge/ﾠ-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/⠀-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)  
   
-***Databases***
+***Databases***  
+  
 ![](https://img.shields.io/badge/ﾠ-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ﾠ-Microsoft_SQL_Server-informational?style=flat&logo=microsoft-sql-server&logoColor=white&color=2bbc8a)  
   
