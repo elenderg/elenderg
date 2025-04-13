@@ -14,7 +14,7 @@
   
 <figure>
   <img src="https://img.shields.io/github/followers/JefersonTaiyou?label=Seguir&style=social" height="22" title="Follow" align="center" alt="GitHub">
- <figcaption><b>Contact me</b></figcaption>
+ <figcaption><b>Contact me</b><br></figcaption>
 </figure>
 
      
