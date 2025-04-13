@@ -25,7 +25,7 @@ Full-Stack Developer passionate about creating elegant and accessible solutions.
 
 
 
-### About me
+## About me
 - I'm a Full-Stack developer with experience in Python, JavaScript, SQL and web technologies.
 
 ## 🚀 Featured Project
