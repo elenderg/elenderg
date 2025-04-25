@@ -48,8 +48,8 @@
 ***WEB***  
   
 ![](https://img.shields.io/badge/⠀-MARKDOWN-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ﾠ-HTML5-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ﾠ-CSS3-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/ﾠ-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/ﾠ-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=2bbc8a)  
   
 ***Programming Languages*** 
   
