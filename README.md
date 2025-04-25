@@ -2,7 +2,6 @@
 <a href="https://github.com/elenderg/elenderg/stargazers">
  <img src="https://img.shields.io/github/stars/elenderg/PAL-1000" title="Favoritos" alt="Favoritos" width="110" height="28"/> 
 </a><br>
-
 </h1>
 
 # Hi, I'm Elender! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
