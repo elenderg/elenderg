@@ -56,7 +56,7 @@
 ![](https://img.shields.io/badge/ﾠ-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ﾠ-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ﾠ-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)  
-![](https://img.shields.io/badge/ﾠ-Pascal-informational?style=flat&logo=Delphi&logoColor=white&color=2bbc8a)  
+![](https://img.shields.io/badge/ﾠ-Delphi-informational?style=flat&logo=Delphi&logoColor=white&color=2bbc8a)  
   
 ***Databases***  
   
