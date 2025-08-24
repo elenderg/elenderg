@@ -71,7 +71,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=elenderg&theme=onedark)](https://github.com/elenderg/)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=elenderg&theme=onedark)](https://github.com/elenderg/)-->
 
 
 
