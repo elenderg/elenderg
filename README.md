@@ -33,11 +33,11 @@
 - 💻 I'm currently focused on the **[Português Puro](https://github.com/elenderg/Portugues-Puro)** project, a programming language written in Portuguese with a natural and intuitive syntax featuring an extensive standard library.
 
 ---
-
+<!--
 <a href="https://github.com/elenderg/Portugues-Puro">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=elenderg&repo=portugues-puro&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>   
-  
+  -->
 ## 🔧 Languages, Technologies & Tools
 
 ***OS***  
