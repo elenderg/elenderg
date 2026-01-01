@@ -25,7 +25,6 @@ I have hands-on experience with:
 
 I value simple solutions, even when the problem itself is complex.
 
----
 
 ## 🧠 How I think about software
 
@@ -39,7 +38,6 @@ When developing software, I prioritize:
 
 I treat software as a **long-term asset**, not as disposable output.
 
----
 
 ## 📁 What you will find in this GitHub profile
 
@@ -57,7 +55,6 @@ Each project includes documentation explaining:
 * Known limitations
 * Possible future improvements
 
----
 
 ## 📌 What I am *not* trying to demonstrate here
 
@@ -68,7 +65,6 @@ Each project includes documentation explaining:
 
 I prefer fewer projects that are **well explained and complete**.
 
----
 
 ## 📬 Contact
 
