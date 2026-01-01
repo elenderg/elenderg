@@ -3,7 +3,11 @@
  <img src="https://img.shields.io/github/stars/elenderg/PAL-1000" title="Favoritos" alt="Favoritos" width="110" height="28"/> 
 </a><br>
 </h1>
-
+<figure>
+  <img src="https://img.shields.io/github/followers/elenderg?label=Seguir&style=social" height="22" title="Follow" align="center" alt="GitHub">
+ <figcaption></figcaption>
+</figure>
+<br> 
 # Hi, I'm Elender! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
   
 ## 👤 About me
@@ -69,14 +73,6 @@ I prefer fewer projects that are **well explained and complete**.
 
 If you would like to discuss a project, a design decision, or a technical approach, feel free to open an issue or reach out.
 
----
- 
-<figure>
-  <img src="https://img.shields.io/github/followers/elenderg?label=Seguir&style=social" height="22" title="Follow" align="center" alt="GitHub">
- <figcaption></figcaption>
-</figure>
-<br> 
-  
 ## Contact me     
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/elenderg) 
