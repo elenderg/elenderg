@@ -69,8 +69,6 @@ I prefer fewer projects that are **well explained and complete**.
 ## 📬 Contact
 
 If you would like to discuss a project, a design decision, or a technical approach, feel free to open an issue or reach out.
-
-## Contact me     
   
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fagnerpsantos)](https://github.com/elenderg) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elenderg/)](https://www.linkedin.com/in/elenderg/) 
